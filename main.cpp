@@ -20,6 +20,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout << " Je suis magnifique";
+    cout"Un jour j'aurais mon bts";
     return 0;
 }
 
