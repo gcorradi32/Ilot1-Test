@@ -19,8 +19,9 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout << " Je suis magnifique";
-    cout"Un jour j'aurais mon bts";
+    cout << "Je suis magnifique"<<endl;
+    cout<<"Un jour j'aurais mon bts"<<endl;
+    cout<<"T'es moche"<<endl;
     return 0;
 }
 
